@@ -1,0 +1,275 @@
+                      Micromeritics Instrument Corporation       
+   ASAP 2400 V3.07                                                    PAGE  1
+
+   SAMPLE DIRECTORY/NUMBER: DATA81  /335               START 14:34:49 07/18/22
+   SAMPLE ID: Pd/Al2O3-AP, Il'ina                      COMPL 07:07:39 07/19/22
+   SUBMITTER:                                          REPRT 12:58:43 07/19/22
+   OPERATOR:                                           SAMPLE WT:    0.0958 g
+   STATION NUMBER: 4       EQUIL INTERVAL:    25 sec   FREE SPACE:  54.0809 cc
+
+                                  ANALYSIS LOG
+
+      RELATIVE    PRESSURE    VOL ADSORBED    ELAPSED TIME     SATURATION
+      PRESSURE     (mmHg)      (cc/g STP)       (HR:MN)       PRESS.(mmHg)
+
+                                                  0:55          749.609
+       0.0046        3.484        59.8510         1:56
+       0.0099        7.436        69.7689         2:07
+       0.0267       20.031        83.4186         2:18
+       0.0524       39.325        93.2762         2:28
+       0.0708       53.126        98.0498         2:35
+       0.0980       73.558       103.8164         2:42
+       0.1467      110.139       112.6701         2:50
+       0.1976      148.305       120.7632         2:58
+                                                  2:58          750.643
+       0.2482      186.330       128.7052         3:06
+       0.2989      224.389       136.7603         3:16
+       0.3896      292.455       152.0100         3:25
+       0.4897      367.624       171.5789         3:34
+       0.5445      408.780       184.2846         3:44
+       0.5938      445.805       197.5152         3:54
+       0.6421      482.034       213.2165         4:06
+       0.6898      517.860       233.4658         4:19
+       0.7443      558.824       266.7838         4:43
+                                                  5:01          750.850
+       0.7901      593.256       314.6025         5:07
+       0.8430      632.967       441.6161         5:52
+                                                  7:04          750.747
+       0.8910      668.914       764.1295         7:07
+       0.9128      684.809       959.3015         7:44
+       0.9500      712.378      1148.0164         8:19
+       0.9591      718.973      1184.2240         8:40
+       0.9710      727.686      1240.0891         8:56
+                                                  9:09          749.247
+       0.9852      738.115      1337.8337         9:18
+       0.9781      732.834      1306.6862         9:28
+       0.9624      721.019      1231.1365         9:46
+       0.9418      705.584      1157.0399        10:05
+       0.9102      681.841      1059.9989        10:29
+       0.8875      664.824       972.3106        10:54
+                                                 11:12          749.092
+       0.8631      646.555       835.8063        11:27
+       0.8016      600.512       410.2297        13:02
+                                                 13:15          749.143
+       0.7533      564.429       290.7660        13:46
+       0.6893      516.543       236.8663        14:13
+       0.6432      482.034       214.8712        14:27
+                      Micromeritics Instrument Corporation       
+   ASAP 2400 V3.07                                                    PAGE  2
+
+   SAMPLE DIRECTORY/NUMBER: DATA81  /335               START 14:34:49 07/18/22
+   SAMPLE ID: Pd/Al2O3-AP, Il'ina                      COMPL 07:07:39 07/19/22
+   SUBMITTER:                                          REPRT 12:58:43 07/19/22
+   OPERATOR:                                           SAMPLE WT:    0.0958 g
+   STATION NUMBER: 4       EQUIL INTERVAL:    25 sec   FREE SPACE:  54.0809 cc
+
+                                  ANALYSIS LOG
+
+      RELATIVE    PRESSURE    VOL ADSORBED    ELAPSED TIME     SATURATION
+      PRESSURE     (mmHg)      (cc/g STP)       (HR:MN)       PRESS.(mmHg)
+
+       0.6126      459.137       203.7424        14:40
+       0.5582      418.350       187.7467        14:50
+       0.5062      379.428       175.0197        14:59
+       0.4782      358.458       168.9167        15:07
+       0.4521      338.873       163.2538        15:16
+                                                 15:18          749.557
+       0.4262      319.484       158.1783        15:26
+       0.4016      301.046       153.5650        15:33
+       0.3540      265.360       145.1456        15:42
+       0.2585      193.731       129.4614        15:50
+       0.1613      120.873       113.4380        16:05
+       0.0438       32.827        87.3402        16:16
+       0.0051        3.819        54.6011        16:30
+                      Micromeritics Instrument Corporation       
+   ASAP 2400 V3.07                                                    PAGE  4
+
+   SAMPLE DIRECTORY/NUMBER: DATA81  /335               START 14:34:49 07/18/22
+   SAMPLE ID: Pd/Al2O3-AP, Il'ina                      COMPL 07:07:39 07/19/22
+   SUBMITTER:                                          REPRT 12:58:43 07/19/22
+   OPERATOR:                                           SAMPLE WT:    0.0958 g
+   STATION NUMBER: 4       EQUIL INTERVAL:    25 sec   FREE SPACE:  54.0809 cc
+
+                             BET SURFACE AREA REPORT
+
+          BET SURFACE AREA:         434.6659   +/-    1.1415   sq. m/g
+          SLOPE:                      0.009943 +/-    0.000026
+          Y-INTERCEPT:                0.000072 +/-    0.000003
+          C:                        139.630112 
+          VM:                        99.849770 cc/g STP
+          CORRELATION COEFFICIENT: 9.99990E-01
+
+             RELATIVE          VOL ADSORBED                1/
+             PRESSURE           (cc/g STP)           [VA(Po/P - 1)]
+
+              0.0524              93.2762                0.000593
+              0.0708              98.0498                0.000777
+              0.0980             103.8164                0.001047
+              0.1467             112.6701                0.001526
+              0.1976             120.7632                0.002039
+                      Micromeritics Instrument Corporation       
+   ASAP 2400 V3.07                                                    PAGE  6
+
+   SAMPLE DIRECTORY/NUMBER: DATA81  /335               START 14:34:49 07/18/22
+   SAMPLE ID: Pd/Al2O3-AP, Il'ina                      COMPL 07:07:39 07/19/22
+   SUBMITTER:                                          REPRT 12:58:43 07/19/22
+   OPERATOR:                                           SAMPLE WT:    0.0958 g
+   STATION NUMBER: 4       EQUIL INTERVAL:    25 sec   FREE SPACE:  54.0809 cc
+
+                            MICROPORE ANALYSIS REPORT
+
+             MICROPORE VOLUME:             0.002185 cc/g
+             MICROPORE AREA:              -6.7747   sq. m/g
+             EXTERNAL SURFACE AREA:      441.4406   sq. m/g
+             SLOPE:                       28.538954 +/-    0.151598
+             Y-INTERCEPT:                  1.412521 +/-    0.635803
+             CORRELATION COEFFICIENT:   9.99958E-01
+
+             RELATIVE           STATISTICAL           VOL ADSORBED
+             PRESSURE          THICKNESS,(A )          (cc/g STP)
+
+              0.0046                2.470                59.8510
+              0.0099                2.645                69.7689
+              0.0267                2.947                83.4186
+              0.0524                3.230                93.2762
+              0.0708                3.387                98.0498
+              0.0980                3.587               103.8164
+              0.1467                3.896               112.6701
+              0.1976                4.187               120.7632
+              0.2482                4.464               128.7052
+              0.2989                4.738               136.7603
+              0.3896                5.240               152.0100
+              0.4897                5.843               171.5789
+              0.5445                6.209               184.2846
+              0.5938                6.568               197.5152
+              0.6421                6.956               213.2165
+              0.6898                7.384               233.4658
+              0.7443                7.943               266.7838
+              0.7901                8.490               314.6025
+              0.8430                9.245               441.6161
+              0.8910               10.090               764.1295
+              0.9128               10.543               959.3015
+              0.9500               11.462              1148.0164
+              0.9591               11.721              1184.2240
+              0.9710               12.085              1240.0891
+              0.9852               12.561              1337.8337
+
+             THICKNESS VALUES USED IN THE LEAST-SQUARES ANALYSIS
+             WERE BETWEEN   3.500 AND   5.000 A .
+
+                                                       0.465
+             t = [   16.7853/(    0.0659 - log(P/Po))]
+
+             SURFACE AREA CORRECTION FACTOR IS  1.000.
+                      Micromeritics Instrument Corporation       
+   ASAP 2400 V3.07                                                    PAGE  8
+
+   SAMPLE DIRECTORY/NUMBER: DATA81  /335               START 14:34:49 07/18/22
+   SAMPLE ID: Pd/Al2O3-AP, Il'ina                      COMPL 07:07:39 07/19/22
+   SUBMITTER:                                          REPRT 12:58:43 07/19/22
+   OPERATOR:                                           SAMPLE WT:    0.0958 g
+   STATION NUMBER: 4       EQUIL INTERVAL:    25 sec   FREE SPACE:  54.0809 cc
+
+                     BJH ADSORPTION PORE DISTRIBUTION REPORT
+
+    PORE DIAMETER    AVERAGE   INCREMENTAL CUMULATIVE  INCREMENTAL CUMULATIVE  
+        RANGE        DIAMETER  PORE VOLUME PORE VOLUME  PORE AREA   PORE AREA  
+         (A )          (A )      (cc/g)      (cc/g)     (sq. m/g)   (sq. m/g)  
+
+    1312.5-  678.7     809.2     0.163278    0.163278      8.071       8.071   
+     678.7-  484.3     548.9     0.094287    0.257565      6.871      14.942   
+     484.3-  397.3     432.0     0.061835    0.319400      5.726      20.668   
+     397.3-  229.9     270.2     0.338517    0.657917     50.105      70.773   
+     229.9-  184.8     202.2     0.363857    1.021774     71.971     142.743   
+     184.8-  128.9     146.5     0.620715    1.642489    169.499     312.243   
+     128.9-   96.4     107.6     0.234428    1.876917     87.122     399.365   
+      96.4-   78.9      85.7     0.077522    1.954440     36.168     435.533   
+      78.9-   64.6      70.2     0.046678    2.001118     26.602     462.135   
+      64.6-   55.6      59.3     0.024599    2.025717     16.586     478.721   
+      55.6-   48.5      51.4     0.016522    2.042238     12.845     491.567   
+      48.5-   42.6      45.1     0.012447    2.054685     11.037     502.604   
+      42.6-   37.4      39.6     0.011111    2.065796     11.225     513.828   
+      37.4-   29.9      32.7     0.015295    2.081091     18.729     532.557   
+                      Micromeritics Instrument Corporation       
+   ASAP 2400 V3.07                                                    PAGE 10
+
+   SAMPLE DIRECTORY/NUMBER: DATA81  /335               START 14:34:49 07/18/22
+   SAMPLE ID: Pd/Al2O3-AP, Il'ina                      COMPL 07:07:39 07/19/22
+   SUBMITTER:                                          REPRT 12:58:43 07/19/22
+   OPERATOR:                                           SAMPLE WT:    0.0958 g
+   STATION NUMBER: 4       EQUIL INTERVAL:    25 sec   FREE SPACE:  54.0809 cc
+
+                     BJH DESORPTION PORE DISTRIBUTION REPORT
+
+    PORE DIAMETER    AVERAGE   INCREMENTAL CUMULATIVE  INCREMENTAL CUMULATIVE  
+        RANGE        DIAMETER  PORE VOLUME PORE VOLUME  PORE AREA   PORE AREA  
+         (A )          (A )      (cc/g)      (cc/g)     (sq. m/g)   (sq. m/g)  
+
+    1310.9-  893.6    1024.7     0.051318    0.051318      2.003       2.003   
+     893.6-  523.5     616.1     0.126988    0.178306      8.244      10.247   
+     523.5-  340.6     393.8     0.126931    0.305237     12.892      23.140   
+     340.6-  221.8     256.2     0.171328    0.476565     26.750      49.890   
+     221.8-  177.4     194.5     0.159834    0.636399     32.873      82.763   
+     177.4-  146.0     158.5     0.256823    0.893222     64.825     147.588   
+     146.0-  100.4     114.5     0.837967    1.731189    292.838     440.426   
+     100.4-   80.3      87.9     0.220268    1.951458    100.225     540.651   
+      80.3-   62.9      69.3     0.076066    2.027523     43.896     584.547   
+      62.9-   54.2      57.8     0.022079    2.049603     15.277     599.825   
+      54.2-   49.4      51.5     0.008521    2.058124      6.613     606.437   
+      49.4-   42.5      45.4     0.009228    2.067353      8.133     614.571   
+      42.5-   37.2      39.5     0.005540    2.072892      5.612     620.183   
+      37.2-   34.8      35.9     0.002007    2.074899      2.235     622.418   
+      34.8-   32.7      33.7     0.002345    2.077244      2.786     625.204   
+      32.7-   30.8      31.7     0.001281    2.078525      1.617     626.822   
+      30.8-   29.1      29.9     0.000970    2.079495      1.299     628.120   
+                      Micromeritics Instrument Corporation       
+   ASAP 2400 V3.07                                                    PAGE 12
+
+   SAMPLE DIRECTORY/NUMBER: DATA81  /335               START 14:34:49 07/18/22
+   SAMPLE ID: Pd/Al2O3-AP, Il'ina                      COMPL 07:07:39 07/19/22
+   SUBMITTER:                                          REPRT 12:58:43 07/19/22
+   OPERATOR:                                           SAMPLE WT:    0.0958 g
+   STATION NUMBER: 4       EQUIL INTERVAL:    25 sec   FREE SPACE:  54.0809 cc
+
+                                SUMMARY REPORT
+
+
+                                     AREA
+
+   BET SURFACE AREA:                                        434.6659   sq. m/g
+
+   SINGLE POINT SURFACE AREA AT P/Po 0.1976:                421.5324   sq. m/g
+
+   BJH CUMULATIVE ADSORPTION SURFACE AREA OF PORES
+    BETWEEN     17.0000 AND   3000.0000 A  DIAMETER:        532.5574   sq. m/g
+
+   BJH CUMULATIVE DESORPTION SURFACE AREA OF PORES
+    BETWEEN     17.0000 AND   3000.0000 A  DIAMETER:        628.1201   sq. m/g
+
+   MICROPORE AREA:                                           -6.7747   sq. m/g
+
+
+
+                                    VOLUME
+
+   SINGLE POINT TOTAL PORE VOLUME OF PORES LESS THAN
+      1313.5280 A  DIAMETER AT P/Po 0.9852:                   2.069361 cc/g
+
+   BJH CUMULATIVE ADSORPTION PORE VOLUME OF PORES
+    BETWEEN     17.0000 AND   3000.0000 A  DIAMETER:          2.081091 cc/g
+
+   BJH CUMULATIVE DESORPTION PORE VOLUME OF PORES
+    BETWEEN     17.0000 AND   3000.0000 A  DIAMETER:          2.079495 cc/g
+
+   MICROPORE VOLUME:                                          0.002185 cc/g
+
+
+                                  PORE SIZE
+
+   AVERAGE PORE DIAMETER (4V/A BY BET):                     190.4324   A 
+
+   BJH ADSORPTION AVERAGE PORE DIAMETER (4V/A):             156.3092   A 
+
+   BJH DESORPTION AVERAGE PORE DIAMETER (4V/A):             132.4266   A 
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
